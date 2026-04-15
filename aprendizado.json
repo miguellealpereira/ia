@@ -1,0 +1,40 @@
+[
+    {
+        "tag": "carro",
+        "padroes": [
+            "carro"
+        ],
+        "respostas": [
+            "Um carro (ou automóvel) é um veículo motorizado com rodas, destinado principalmente ao transporte de pessoas (geralmente de uma a nove) e pequenas cargas, movendo-se por força mecânica, geralmente em estradas. É uma máquina que utiliza motores a combustão ou elétricos, destacando-se pela mobilidade individual."
+        ]
+    },
+    {
+        "tag": "o que e um carro",
+        "padroes": [
+            "o que e um carro"
+        ],
+        "respostas": [
+            "Um carro (ou automóvel) é um veículo motorizado com rodas, destinado principalmente ao transporte de pessoas (geralmente de uma a nove) e pequenas cargas, movendo-se por força mecânica, geralmente em estradas. É uma máquina que utiliza motores a combustão ou elétricos, destacando-se pela mobilidade individual"
+        ]
+    },
+    {
+        "tag": "aprendido",
+        "padroes": [
+            "o que o ser humano e",
+            "o que e o ser humano"
+        ],
+        "respostas": [
+            "Ser humano (Homo sapiens) é a espécie viva evolutiva que se difere das demais por possuir inteligência e razão."
+        ]
+    },
+    {
+        "tag": "segunda guerra mundial",
+        "padroes": [
+            "segunda guerra mundial"
+            
+        ],
+        "respostas": [
+            "Segunda Guerra Mundial foi um conflito militar global que durou de 1939 a 1945, envolvendo a maioria das nações do mundo — incluindo todas as grandes potências — organizadas em duas alianças militares opostas: os Aliados e o Eixo. Foi a guerra mais abrangente da história, com mais de 100 milhões de militares mobilizados. Em estado de \"guerra total\", os principais envolvidos dedicaram toda sua capacidade econômica, industrial e científica a serviço dos esforços de guerra, deixando de lado a distinção entre recursos civis e militares. Marcado por um número significante de ataques contra civis, incluindo o Holocausto e a única vez em que armas nucleares foram utilizadas em combate, foi o..."
+        ]
+    }
+]
